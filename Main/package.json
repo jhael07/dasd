@@ -1,0 +1,14 @@
+{
+  "name": "tarea_uno_programacion_itla",
+  "version": "1.0.0",
+  "description": "Mi primer codigo en Java!!",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhael Rodriguez",
+  "license": "ISC"
+}
